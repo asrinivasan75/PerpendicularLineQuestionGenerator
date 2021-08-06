@@ -1,5 +1,5 @@
 # PerpendicularLineQuestionGenerator
-### Automatically generates problems about finding a line that is particular to a given one and passing through a given point. 
+### Automatically generates problems about finding a line that is particular to a given one and passing through a given point. Tool for the algebra teacher. 
 
 #### Example question: Find a line that is perpendicular to y = 5 x + 9 and passes through ( 9 ,  5 )
 
